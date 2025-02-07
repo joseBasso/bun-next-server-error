@@ -1,0 +1,4 @@
+.Header {
+    @apply bad-variant:test;
+    color: blue;
+}
